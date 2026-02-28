@@ -1,0 +1,5 @@
+{
+  "name": "MediSafe AI Agent",
+  "description": "A fully autonomous, agentic healthcare companion that uses computer vision for medication adherence, ambient voice analysis for emergency distress detection, and proactive AI notifications.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
